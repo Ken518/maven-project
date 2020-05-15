@@ -6,4 +6,6 @@ package com.test.controller;
  * desc: use for java11
  */
 public class MyController {
+
+    public void test(){}
 }
